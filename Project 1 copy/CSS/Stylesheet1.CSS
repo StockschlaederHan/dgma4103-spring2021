@@ -1,0 +1,28 @@
+*{
+  Font-Family:Verdana;
+  background-color: #f9e6ba;
+}
+header{
+  color:#e9ab18;
+  font-size: 25px;
+}
+h1{
+  text-shadow: 2px 2px 5px white;
+
+}
+a{
+  color: #fefbf5;
+
+}
+main{
+  font-size: 23px;
+  color:#ce9613;
+  border-color: #fefbf5;
+  background-color: #f9e6ba;
+  image-resolution: snap;
+}
+footer{
+    background-color: #f9e6ba;
+    font-size: 20px;
+    color: #ce9613;
+}
