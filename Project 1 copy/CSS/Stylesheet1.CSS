@@ -1,6 +1,7 @@
 *{
   Font-Family:Verdana;
   background-color: #f9e6ba;
+  text-align: center;
 }
 header{
   color:#e9ab18;
@@ -19,10 +20,29 @@ main{
   color:#ce9613;
   border-color: #fefbf5;
   background-color: #f9e6ba;
-  image-resolution: snap;
+
 }
+img{
+  border-style: double;
+  border-radius:
+
+}
+hr{
+  border: 2px solid #fefbf5;
+}
+section{
+  background-color: #f9e6ba;
+}
+table{
+  background-color: #f9e6ba;
+  margin: 0 auto;
+}
+
 footer{
     background-color: #f9e6ba;
     font-size: 20px;
     color: #ce9613;
+}
+nav{
+  background-color: #f9e6ba;
 }
