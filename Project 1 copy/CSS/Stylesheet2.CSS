@@ -1,19 +1,29 @@
 *{
   background-color:#f4caac;
   font-family: Comic Sans MS;
+  text-align: center;
+  scroll-behavior: smooth;
 }
 a{
   color: #fdf7f3;
 }
 h1{
   color: #e47a2e;
+  font-size: 25px;
+  text-shadow: 2px 2px 5px #fdf7f3;
 }
 header{
   color:#e99559;
+  font-size: 23;
+  border-color: #db6c1d;
+  border-bottom: double;
+  letter-spacing: 3px;
 }
 body{
   color:#e99559;
 }
+hr{
+  border: 2px solid #fdf7f3;
 footer{
   color:#e99559;
 }
