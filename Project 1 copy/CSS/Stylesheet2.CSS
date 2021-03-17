@@ -10,6 +10,7 @@ a{
 header{
   color:#e99559;
   font-size: 23;
+  border: 2px;
   border-color: #db6c1d;
   border-bottom: double;
   letter-spacing: 3px;
